@@ -24,7 +24,7 @@ export function Logo({ size = "md", showTagline = false }: LogoProps) {
        <div className="relative">
         
   <img
-    src="/src/assets/logo.png"
+    src="https://raw.githubusercontent.com/shankarsolutioninfo-del/Conec-Global-/refs/heads/main/src/assets/logo.png"
     alt="CONEC Logo"
     className="w-8 h-8 rounded-lg object-cover"
   />
